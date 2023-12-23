@@ -1,0 +1,14 @@
+C:\Users\silva\Downloads\csharpCodes\bin\Debug\net7.0\csharpCodes.exe
+C:\Users\silva\Downloads\csharpCodes\bin\Debug\net7.0\csharpCodes.deps.json
+C:\Users\silva\Downloads\csharpCodes\bin\Debug\net7.0\csharpCodes.runtimeconfig.json
+C:\Users\silva\Downloads\csharpCodes\bin\Debug\net7.0\csharpCodes.dll
+C:\Users\silva\Downloads\csharpCodes\bin\Debug\net7.0\csharpCodes.pdb
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\csharpCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\csharpCodes.AssemblyInfoInputs.cache
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\csharpCodes.AssemblyInfo.cs
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\csharpCodes.csproj.CoreCompileInputs.cache
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\csharpCodes.dll
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\refint\csharpCodes.dll
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\csharpCodes.pdb
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\csharpCodes.genruntimeconfig.cache
+C:\Users\silva\Downloads\csharpCodes\obj\Debug\net7.0\ref\csharpCodes.dll
