@@ -1,0 +1,4 @@
+C:\Users\silva\Downloads\csharpCodes\csharpCodes\obj\Debug\net7.0\analisebrinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\Downloads\csharpCodes\csharpCodes\obj\Debug\net7.0\analisebrinco.AssemblyInfoInputs.cache
+C:\Users\silva\Downloads\csharpCodes\csharpCodes\obj\Debug\net7.0\analisebrinco.AssemblyInfo.cs
+C:\Users\silva\Downloads\csharpCodes\csharpCodes\obj\Debug\net7.0\analisebrinco.csproj.CoreCompileInputs.cache

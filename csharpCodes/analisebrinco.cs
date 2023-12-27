@@ -1,21 +1,13 @@
-using System;	
-
-public class Program
-{
-	public static void Main()
-	{
-		Cliente brinco= new Cliente();
+﻿Cliente brinco= new Cliente();
 		Console.Writeline("Seja bem vindo a Análise de tipo de brinco");
 		Console.WriteLine("Aguarde a inspeção......");
 		Console.ReadLine();
-		Console.WriteLine("Inspeção Concluída" 
-		"Aperte Enter para continuar");
+		Console.WriteLine("Inspeção Concluída. Aperte Enter para continuar");
 		Console.ReadLine();
 		Console.Clear();
-		Console.WriteLine("Tipo de Binco: "+ brinco.nome);
+		Console.WriteLine("Tipo de Brinco: "+ brinco.nome);
 		
-	}
-}
+	
 
 public class Cliente 
 {

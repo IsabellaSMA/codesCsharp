@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpCodes", "csharpCodes.csproj", "{2DA14554-D0E3-4910-8B14-A619EE576DA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "analisebrinco", "csharpCodes\analisebrinco.csproj", "{569934B9-CB32-459F-A99A-52CCB155DBA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2DA14554-D0E3-4910-8B14-A619EE576DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DA14554-D0E3-4910-8B14-A619EE576DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DA14554-D0E3-4910-8B14-A619EE576DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569934B9-CB32-459F-A99A-52CCB155DBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569934B9-CB32-459F-A99A-52CCB155DBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569934B9-CB32-459F-A99A-52CCB155DBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569934B9-CB32-459F-A99A-52CCB155DBA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
